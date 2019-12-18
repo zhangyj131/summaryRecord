@@ -38,25 +38,13 @@ typora内引用github的图片
 
 
 
-![](https://raw.githubusercontent.com/zhangyj131/summaryRecord/raw/master/markdown%E8%AE%B0%E5%BD%95/md-pic/20191219010630.png)
-
-![20191219010630](https://github.com/zhangyj131/summaryRecord/raw/master/markdown记录/md-pic/20191219010630.png)
-
-https://github.com/zhangyj131/summaryRecord/blob/master/markdown记录/md-pic/1576685655829.jpg
+![](https://raw.githubusercontent.com/zhangyj131/summaryRecord/master/MD_PIC/20191219012104.png)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
+![](https://raw.githubusercontent.com/zhangyj131/summaryRecord/master/MD_PIC/20191219012151.png)
 
 
 
