@@ -5,3 +5,8 @@ regsvr32wodFtpDLX
 然后ue配置sftp的公钥登陆方式即可登陆
 
 ultraedit 15 配置sftp_Attachments就是自己使用的三个控件
+
+
+
+新安装的ultraedit  配置从 summaryRecord\工具\编辑器\ultraedit_32经典-V15\配置 导入即可
+ 
