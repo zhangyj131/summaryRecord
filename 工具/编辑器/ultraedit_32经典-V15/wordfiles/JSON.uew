@@ -1,0 +1,14 @@
+/L20"JSON" Nocase Noquote File Extensions = JSON
+/Colors = 0,8421376,8421376,8421504,255,
+/Colors Back = 13430215,13430215,13430215,13430215,13430215,
+/Colors Auto Back = 1,1,1,1,1,
+/Font Style = 0,0,0,0,0,
+/Delimiters =:{}[],
+/Indent Strings = "{"
+/Unindent Strings = "}"
+/Open Brace Strings = "{" "["
+/Close Brace Strings = "}" "]"
+/Open Fold Strings = "{" "["
+/Close Fold Strings = "}" "]"
+/C1"Values" Colors = 16711680 Colors Back = 13430215 Colors Auto Back = 1 Font Style = 0
+** : { [ }

@@ -1,0 +1,7 @@
+ultraedit 15是自己一直使用的版本，但是该版本使用sftp通过私钥连接自己的vps，连接不上，原因是因为ue的控件问题，下载最新版本的ue，找到安装目录下的wodCertificate.dll wodFtpDLX.dll wodTelnetDLX.ocx 这三个文件，替换自己本地的ue安装目录中的这三个文件，并执行
+regsvr32 wodCertificate
+regsvr32wodFtpDLX
+注册这两个控件即可
+然后ue配置sftp的公钥登陆方式即可登陆
+
+ultraedit 15 配置sftp_Attachments就是自己使用的三个控件
